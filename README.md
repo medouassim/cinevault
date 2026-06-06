@@ -1,7 +1,7 @@
 # 🎬 CineVault
 
 A cinematic movie explorer built with React, TypeScript, and Tailwind CSS — powered by the TMDB API.
-
+The website is live at: https://medouassim.github.io/cinevault/
 ## Features
 
 - 🔥 **Trending movies** — browse what's hot this week
